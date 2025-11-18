@@ -3,12 +3,12 @@
 
 **Portfolio Owner:** Ryan Sharpnack  
 **LinkedIn:** https://www.linkedin.com/in/ryansharpnack
-**Newsletter:** [Critical Infrastructure Security Insights] (https://ryansharpnack.beehiiv.com)
+**Newsletter:** Critical Infrastructure Security Insights https://ryansharpnack.beehiiv.com
 **Location:** Santa Ana, California
 
 ---
 
-## 🎯 About This Portfolio
+## About This Portfolio
 
 This repository documents my intensive self-study journey into cybersecurity, focusing on Purple Team operations and Industrial Control Systems (ICS/OT) security with emphasis on the energy sector.
 
@@ -21,7 +21,7 @@ This repository documents my intensive self-study journey into cybersecurity, fo
 
 ---
 
-## 💼 Professional Summary
+## Professional Summary
 
 Cybersecurity professional specializing in Purple Team operations and Industrial Control Systems (ICS/OT) security. Strong foundation in IT infrastructure with focused expertise in offensive security, detection engineering, and critical infrastructure protection for energy and utility environments.
 
@@ -35,7 +35,7 @@ Cybersecurity professional specializing in Purple Team operations and Industrial
 
 ---
 
-## 📚 Portfolio Structure
+## Portfolio Structure
 
 ### Phase 1: Purple Team Foundation
 Building offensive and defensive capabilities with IT security fundamentals
@@ -71,7 +71,7 @@ Focusing on power grid and utility-specific security
 
 ---
 
-## 🛠️ Technical Skills Demonstrated
+## Technical Skills Demonstrated
 
 **Offensive Security:**
 - Penetration Testing & Attack Simulation
@@ -102,7 +102,7 @@ Focusing on power grid and utility-specific security
 
 ---
 
-## 🚀 Current Status
+## Current Status
 
 **Current Phase:** Building foundation and lab environment
 
@@ -118,7 +118,7 @@ Focusing on power grid and utility-specific security
 
 ---
 
-## 📞 Contact
+## Contact
 
 I'm actively seeking opportunities in:
 - ICS/OT Cybersecurity Analysis
@@ -133,7 +133,7 @@ I'm actively seeking opportunities in:
 
 ---
 
-## 📝 License
+## License
 
 MIT License - See [LICENSE](LICENSE) file for details.
 
