@@ -2,7 +2,8 @@
 ## Purple Team Operations | Energy Sector Specialization | Critical Infrastructure Defense
 
 **Portfolio Owner:** Ryan Sharpnack  
-**LinkedIn:** https://www.linkedin.com/in/ryansharpnack  
+**LinkedIn:** https://www.linkedin.com/in/ryansharpnack
+**Newsletter:** [Critical Infrastructure Security Insights] (https://ryansharpnack.beehiiv.com)
 **Location:** Santa Ana, California
 
 ---
