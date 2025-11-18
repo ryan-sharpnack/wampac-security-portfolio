@@ -86,6 +86,7 @@ Beyond cybersecurity, I'm interested in:
 I'm always interested in connecting with professionals in the ICS/OT security and energy sector cybersecurity communities.
 
 - **LinkedIn:** https://www.linkedin.com/in/ryansharpnack
+- **Newsletter:** https://ryansharpnack.beehiiv.com/
 - **Location:** Santa Ana, California
 - **Email:** ryan.sharpnack.cs@gmail.com
 
