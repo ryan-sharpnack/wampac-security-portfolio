@@ -1,143 +1,155 @@
-# ICS/OT Cybersecurity Portfolio
-## Purple Team Operations | Energy Sector Specialization | Critical Infrastructure Defense
+WAMPAC Security Portfolio
+Synchrophasor Protocol Security | Purple Team Operations | Electric Grid Infrastructure
+Portfolio Owner: Ryan Sharpnack
+LinkedIn: https://www.linkedin.com/in/ryansharpnack
+Newsletter: Critical Infrastructure Security Insights - https://ryansharpnack.beehiiv.com
+Location: Santa Ana, California
 
-**Portfolio Owner:** Ryan Sharpnack  
-**LinkedIn:** https://www.linkedin.com/in/ryansharpnack
-**Newsletter:** Critical Infrastructure Security Insights https://ryansharpnack.beehiiv.com
-**Location:** Santa Ana, California
+About This Portfolio
+This repository documents my intensive specialization in Wide-Area Monitoring, Protection, and Control (WAMPAC) security, focusing on synchrophasor protocols, Purple Team operations, and electric grid cybersecurity.
+What You'll Find Here:
 
----
+WAMPAC security research and protocol analysis (IEEE C37.118)
+PMU/PDC security implementations and threat modeling
+Purple Team operations for synchrophasor systems
+Electric grid threat analysis and detection engineering
+NERC-CIP compliance documentation for transmission operations
+SOC playbooks for WAMPAC-specific incidents
 
-## About This Portfolio
 
-This repository documents my intensive self-study journey into cybersecurity, focusing on Purple Team operations and Industrial Control Systems (ICS/OT) security with emphasis on the energy sector.
+Professional Summary
+WAMPAC Security Engineer specializing in synchrophasor protocol security (IEEE C37.118), Purple Team operations, and electric grid cybersecurity. Focused expertise in PMU/PDC security, protocol analysis, detection engineering, and critical infrastructure protection for transmission and grid operations.
+Core Competencies:
 
-**What You'll Find Here:**
-- Hands-on cybersecurity projects demonstrating attack-to-detection workflows
-- ICS/OT security lab implementations with SCADA, PLC, and HMI systems
-- Energy sector threat analysis and NERC-CIP compliance documentation
-- SOC playbooks, detection rules, and incident response procedures
-- Professional-grade security assessments and technical case studies
+WAMPAC Security & Architecture
+Synchrophasor Protocol Security (IEEE C37.118)
+PMU/PDC Security & Threat Modeling
+Purple Team Methodology (Offensive → Defensive → Detection)
+Detection Engineering (Splunk SIEM, Protocol Analysis)
+Electric Grid Cybersecurity & NERC-CIP Compliance
+ICS/OT Security (SCADA, Network Segmentation)
+Threat Intelligence (MITRE ATT&CK for ICS)
 
----
 
-## Professional Summary
+Portfolio Structure
+Phase 1: Purple Team Foundation
+Building offensive and defensive capabilities with security fundamentals
 
-Cybersecurity professional specializing in Purple Team operations and Industrial Control Systems (ICS/OT) security. Strong foundation in IT infrastructure with focused expertise in offensive security, detection engineering, and critical infrastructure protection for energy and utility environments.
+Lab Infrastructure Setup
+Credential Attack Detection
+Lateral Movement Analysis
+Data Exfiltration Detection
 
-**Core Competencies:**
-- Purple Team Methodology (Offensive → Defensive → Detection)
-- ICS/OT Security (SCADA, PLC, HMI, Modbus, DNP3)
-- Detection Engineering (Splunk SIEM, Suricata IDS)
-- Energy Sector Cybersecurity (NERC-CIP, Grid Security)
-- Threat Intelligence (MITRE ATT&CK for ICS)
-- Network Security & Segmentation (Purdue Model)
+Phase 2: ICS/OT & Grid Fundamentals
+Understanding operational technology and electric grid operations
 
----
+OT Fundamentals & Purdue Model
+SCADA Lab Build & Network Segmentation
+Grid Architecture & Substation Automation
+ICS Baseline & Anomaly Detection
 
-## Portfolio Structure
+Phase 3: WAMPAC Security Specialization
+Deep dive into synchrophasor systems and protocol security
 
-### Phase 1: Purple Team Foundation
-Building offensive and defensive capabilities with IT security fundamentals
-- Lab Infrastructure Setup
-- Credential Attack Detection
-- Lateral Movement Analysis
-- Data Exfiltration Detection
+WAMPAC Architecture & Components
+IEEE C37.118 Protocol Analysis
+PMU/PDC Security Implementation
+Synchrophasor Data Flow Security
+WAMPAC Threat Modeling
 
-### Phase 2: ICS/OT Foundations
-Understanding what makes operational technology security unique
-- OT Fundamentals & IT vs OT
-- OpenPLC & SCADA Lab Build
-- Modbus Protocol Analysis
-- Network Segmentation (Purdue Model)
-- ICS Baseline & Anomaly Detection
+Phase 4: Advanced Detection & Response
+Building detection and response capabilities for WAMPAC environments
 
-### Phase 3: ICS Attack & Defense
-Executing and detecting attacks in industrial environments
-- Process Simulation Build
-- Replay Attack Case Study
-- Sensor Spoofing Analysis
-- Unauthorized PLC Write
-- Full Incident Report
+WAMPAC Attack Scenarios (Data Injection, Replay, Spoofing)
+Multi-Layer Detection Engineering
+Protocol-Based Threat Detection
+SIEM Correlation for Synchrophasor Systems
+Incident Response Playbooks
 
-### Phase 4: Energy Sector Specialization
-Focusing on power grid and utility-specific security
-- Power Grid Simulation
-- Advanced Detection Engineering
-- ICS SOC Playbooks
-- NERC-CIP Policy Development
-- Threat Intelligence Analysis
-- Capstone: Utility Security Assessment
+Phase 5: Comprehensive Security Assessment
+Demonstrating end-to-end WAMPAC security expertise
 
----
+Threat Actor Analysis (Grid-Focused APTs)
+NERC-CIP Compliance for WAMPAC Systems
+Security Architecture Review
+Capstone: Transmission Operator Security Assessment
 
-## Technical Skills Demonstrated
 
-**Offensive Security:**
-- Penetration Testing & Attack Simulation
-- MITRE ATT&CK Framework (Enterprise & ICS)
-- Post-Exploitation & Lateral Movement
+Technical Skills Demonstrated
+WAMPAC Security:
 
-**Defensive Security:**
-- SIEM Implementation & Rule Development (Splunk)
-- IDS/IPS Configuration (Suricata)
-- Log Analysis & Correlation
-- Incident Response & Forensics
+Synchrophasor Protocol Analysis (IEEE C37.118)
+PMU/PDC Security Architecture
+WAMPAC Network Security & Segmentation
+Data Integrity & Availability Protection
+Real-Time Monitoring Security
 
-**ICS/OT Security:**
-- SCADA System Security
-- PLC Security (OpenPLC)
-- OT Protocol Analysis (Modbus, DNP3)
-- Purdue Model Architecture
-- NERC-CIP Compliance
+Offensive Security:
 
-**Tools & Technologies:**
-- **SIEM:** Splunk Enterprise
-- **IDS/IPS:** Suricata, Snort, Zeek
-- **Network Analysis:** Wireshark, tcpdump
-- **Penetration Testing:** Kali Linux, Metasploit, Impacket
-- **ICS/SCADA:** OpenPLC, ScadaBR
-- **Scripting:** Python, PowerShell, Bash
-- **Platforms:** Linux (Ubuntu), Windows, VirtualBox
+Attack Simulation & Purple Team Operations
+MITRE ATT&CK Framework (Enterprise & ICS)
+Protocol-Level Attack Techniques
+Post-Exploitation Analysis
 
----
+Defensive Security:
 
-## Current Status
+SIEM Implementation & Rule Development (Splunk)
+Network Intrusion Detection (Suricata)
+Protocol Anomaly Detection
+Incident Response & Forensics
+Multi-Layer Defense Strategy
 
-**Current Phase:** Building foundation and lab environment
+ICS/OT Security:
 
-**In Progress:**
-- Phase 1: Purple Team foundation labs
-- Setting up multi-VM cybersecurity environment
-- Documenting lab architecture and configurations
+SCADA System Security
+OT Network Segmentation (Purdue Model)
+Industrial Protocol Security
+NERC-CIP Compliance
 
-**Upcoming:**
-- ICS/OT lab build with OpenPLC and SCADA systems
-- Energy sector protocol analysis
-- NERC-CIP compliance study
+Tools & Technologies:
 
----
+SIEM: Splunk Enterprise
+Network Analysis: Wireshark, tcpdump, Zeek
+IDS/IPS: Suricata, Snort
+Penetration Testing: Kali Linux, Metasploit, Impacket
+ICS/SCADA: OpenPLC, ScadaBR, Protocol Simulators
+Scripting: Python (Protocol Analysis, Automation)
+Platforms: Linux (Ubuntu), Windows, VirtualBox
 
-## Contact
 
+Current Status
+Current Phase: WAMPAC Security Specialization (40-week intensive study)
+In Progress:
+
+Building WAMPAC lab environment with PMU/PDC simulators
+IEEE C37.118 protocol deep-dive and packet analysis
+Developing synchrophasor-specific detection rules
+Documenting WAMPAC threat scenarios
+
+Upcoming:
+
+Advanced WAMPAC attack simulation and detection
+Grid operator security assessment framework
+NERC-CIP compliance documentation for transmission
+Comprehensive capstone security assessment
+
+
+Contact
 I'm actively seeking opportunities in:
-- ICS/OT Cybersecurity Analysis
-- Purple Team Operations
-- SOC Analysis (IT/OT focus)
-- Energy Sector Security Roles
-- Critical Infrastructure Protection
 
-**Connect with me:**
-- LinkedIn: https://www.linkedin.com/in/ryansharpnack
-- Email: ryan.sharpnack.cs@gmail.com
+WAMPAC Security Engineering
+Synchrophasor Protocol Security
+Electric Grid Cybersecurity
+Purple Team Operations (ICS/OT)
+Transmission & Grid Operations Security
 
----
+Connect with me:
 
-## License
+LinkedIn: https://www.linkedin.com/in/ryansharpnack
+Email: ryan.sharpnack.cs@gmail.com
+Newsletter: https://ryansharpnack.beehiiv.com
 
-MIT License - See [LICENSE](LICENSE) file for details.
 
----
-
-*Portfolio Status: Active Development*  
-*Last Updated: November 2025*
+License: MIT License - See LICENSE file for details.
+Portfolio Status: Active Development
+Last Updated: November 2025
