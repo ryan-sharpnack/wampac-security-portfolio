@@ -2,14 +2,6 @@
 
 This directory contains supporting materials, tools, references, and templates used throughout the portfolio.
 
-## Directory Structure
-```
-resources/
-├── tools-and-setup/       # Lab setup guides and tool installation
-├── references/            # Standards, whitepapers, and documentation
-└── templates/             # Reusable templates for documentation
-```
-
 ## Tools & Setup
 
 Guides for setting up the lab environment and tools:
