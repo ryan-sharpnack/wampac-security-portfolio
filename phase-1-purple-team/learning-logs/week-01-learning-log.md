@@ -284,4 +284,9 @@ Built complete 3-VM cybersecurity lab in VirtualBox:
 
 ---
 
+**Date:** November 18-19, 2025
+**Focus:** Career research
+
+---
+
 *Onward to Splunk installation and first detection project.* 🚀
