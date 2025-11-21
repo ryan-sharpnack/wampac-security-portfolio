@@ -1,3 +1,3 @@
 ## Network Architecture
 
-![Lab Network Diagram](images/lab-network-diagram.draw.io.png)
+![Lab Network Diagram](images/lab-network-diagram.drawio.png)
