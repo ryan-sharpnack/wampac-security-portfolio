@@ -289,4 +289,9 @@ Built complete 3-VM cybersecurity lab in VirtualBox:
 
 ---
 
+**Date:** November 20, 2025
+**Focus:** Troubleshot Home Lab Network issues, installed openssh-server, wireshark, tshark, suricata, and Splunk on Ubuntu Server, and installed Splunk Universal Forwarder on Windows 11. Phase 1 Project 1 will begin on November 21, 2025.
+
+---
+
 *Onward to Splunk installation and first detection project.* 🚀
