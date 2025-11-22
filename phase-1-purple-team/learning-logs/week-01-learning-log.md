@@ -294,4 +294,9 @@ Built complete 3-VM cybersecurity lab in VirtualBox:
 
 ---
 
+**Date** November 21, 2025
+**Focus** Phase 1 of pathway will be resource-intensive on current system, create a strategy of hardware utilization that is efficient. Update project list as needed. Research new career options.
+
+---
+
 *Onward to Splunk installation and first detection project.* 🚀
